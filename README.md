@@ -5,7 +5,7 @@
 ### Crafting Digital Experiences with Modern Web Technologies
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dishant.kaushal@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Dishantkaushal456@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github)](https://github.com/Dishant1-git)
 
 </div>
@@ -140,7 +140,7 @@ I'm **Dishant Kaushal**, a passionate **Full Stack Web Developer** specializing 
 ║    Avoid the Walls & Yourself      ║
 ║                                    ║
 ║    Press SPACEBAR to Start         ║
-╚═══════════��════════════════════════╝
+╚════════════════════════════════════╝
 ```
 
 [Play Full Screen Version](https://github.com/Dishant1-git)
@@ -173,7 +173,7 @@ I'm **Dishant Kaushal**, a passionate **Full Stack Web Developer** specializing 
                     └──► Full Stack Mastery                 │
                          MERN Stack Deep Dive        │
                                           │                  │
-                                          └��─► Production Expert
+                                          └──► Production Expert
                                                Building Scalable Apps
 ```
 
@@ -228,11 +228,11 @@ I'm always interested in:
 ### 📬 Get in Touch
 
 ```
-📧 Email     → dishant.kaushal@example.com (Update with your actual email)
+📧 Email     → Dishantkaushal456@gmail.com
 💼 LinkedIn  → linkedin.com/in/dishant-kaushal (Add your LinkedIn)
-🌐 Portfolio → dishant-kaushal.dev (Update your portfolio URL)
+🌐 Portfolio → dishant-kaushal.dev (Add your portfolio URL)
 🐙 GitHub    → github.com/Dishant1-git
-📱 Phone     → +91-XXXXX-XXXXX (Optional - Add if comfortable)
+📱 WhatsApp  → Available on request
 ```
 
 ---
@@ -304,6 +304,7 @@ I believe in:
 ---
 
 **Dishant Kaushal** | Full Stack MERN Developer  
+**Email:** Dishantkaushal456@gmail.com  
 **Last Updated:** August 2026 | **Status:** 🟢 Available for Opportunities
 
 *Thank you for visiting my profile. I'm excited to hear about your project ideas!*
